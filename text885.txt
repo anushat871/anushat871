@@ -1,0 +1,14 @@
+git initialization
+--> git init
+--> git config --global user.name "username"
+--> git config -- global user.email "emailidd"
+-->git config --list -q(end)
+-->git status
+-->git add -A ,git add index.html 
+-->git commit -m "msg"
+
+-->git remote add aname link
+-->git push aname master
+
+
+local directory --staging area ---remote directory(github)
